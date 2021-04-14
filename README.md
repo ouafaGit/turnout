@@ -1,6 +1,6 @@
 # turnout
 
-> A Vue.js project
+> A small app to subscribe events using Vue.Js and FireBase
 
 ## Build Setup
 
